@@ -47,11 +47,11 @@ git config --global user.email "ВАШ EMAIL"
 
 Необходимо форкнуть (fork) приватный репозиторий, относящийся к лабораторной работе, которую вы хотите сдать. Для этого необходимо зайти в репозиторий, соответствующий работе (например, icg-course/icg_labwork3 для 3-й ЛР), и нажать кнопку Fork.
 
-![Fork](https://github.com/db-course/syllabus/blob/master/img/fork.png)
+![Fork](https://github.com/icg-course/syllabus/blob/master/img/fork.png)
 
 Через несколько секунд на сервере GitHub будет создана ваша копия репозитория проекта.
 
-![Forking](https://github.com/db-course/syllabus/blob/master/img/forking.png)
+![Forking](https://github.com/icg-course/syllabus/blob/master/img/forking.png)
 
 Вы будете работать с ней, внося изменения в виде кода лабораторной работы, а затем для сдачи работы делать pull-request (запрос на включение) в исходный репозиторий, где его будет просматривать и оценивать преподаватель.
 
